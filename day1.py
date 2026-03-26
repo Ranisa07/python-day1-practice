@@ -1,3 +1,4 @@
+# User Input
 name = input("Enter name: ")
 age = int(input("Enter age: "))
 city = input("Enter city: ")

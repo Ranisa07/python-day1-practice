@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Day 1 Practice
 
 ## 📌 Overview
@@ -19,3 +20,5 @@ To build a strong foundation in Python for Data Science and Machine Learning.
 
 ## 👩‍💻 Author
 Ranisa Rout
+=======
+
