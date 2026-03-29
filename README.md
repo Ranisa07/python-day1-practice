@@ -18,16 +18,23 @@ This repository contains my daily Python practice as I learn programming for Dat
 - If-Else Conditions
 - Logic Building Programs
 
-### 🔄 Day 3 (In Progress)
+### ✅ Day 3
 - Loops (for, while)
-- Practice Problems
+- range()
+- Sum, Table, Reverse Counting
+
+### 🔄 Day 4 (In Progress)
+- Nested Loops
+- Pattern Problems
+- Logic Building
 
 ---
 
 ## 💻 Files in this Repository
-- day1.py → Basic Python programs
-- day2.py → Conditional statements and logic programs
-- day3.py → Loop-based programs (upcoming)
+- day1.py → Basic Python programs  
+- day2.py → Conditional statements and logic programs  
+- day3.py → Loop-based programs  
+- day4.py → Pattern programs (in progress)  
 
 ---
 
@@ -44,4 +51,3 @@ To build a strong foundation in Python and move towards Data Science, Machine Le
 
 ## 👩‍💻 Author
 Ranisa Rout
-
