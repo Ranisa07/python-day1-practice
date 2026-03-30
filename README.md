@@ -1,4 +1,4 @@
-# Python Practice Journey 🚀
+# Python Learning Journey 🚀
 
 ## 📌 Overview
 This repository contains my daily Python practice as I learn programming for Data Science and Machine Learning.
@@ -23,7 +23,7 @@ This repository contains my daily Python practice as I learn programming for Dat
 - range()
 - Sum, Table, Reverse Counting
 
-### 🔄 Day 4 (In Progress)
+### ✅ Day 4
 - Nested Loops
 - Pattern Problems
 - Logic Building
@@ -34,7 +34,7 @@ This repository contains my daily Python practice as I learn programming for Dat
 - day1.py → Basic Python programs  
 - day2.py → Conditional statements and logic programs  
 - day3.py → Loop-based programs  
-- day4.py → Pattern programs (in progress)  
+- day4.py → Pattern programs  
 
 ---
 
