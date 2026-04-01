@@ -8,49 +8,43 @@ This repository contains my daily Python practice as I build a strong foundation
 ## 📅 Day-wise Progress
 
 ### ✅ Day 1
-- Variables
-- Data Types
-- Input/Output
-- Basic Programs
+- Variables, Data Types, Input/Output
 
 ### ✅ Day 2
-- Operators (Arithmetic, Comparison, Logical)
-- If-Else Conditions
-- Logic Building Programs
+- Operators, If-Else, Logic Programs
 
 ### ✅ Day 3
-- Loops (for, while)
-- range()
-- Sum, Table, Reverse Counting
+- Loops (for, while), range()
 
 ### ✅ Day 4
-- Nested Loops
-- Pattern Problems
-- Logic Building
+- Nested Loops, Pattern Problems
 
 ### ✅ Day 5
-- Functions
-- Parameters & Arguments
-- Return Values
-- Function-based Programs
+- Functions, Parameters, Return
+
+### ✅ Day 6
+- Lists
+- List Operations (append, remove, sort)
+- List-based Programs
 
 ---
 
-## 💻 Files in this Repository
-- day1.py → Basic Python programs  
-- day2.py → Conditional statements and logic programs  
-- day3.py → Loop-based programs  
-- day4.py → Pattern programs  
-- day5.py → Function-based programs  
+## 💻 Files
+- day1.py → Basics  
+- day2.py → Conditions  
+- day3.py → Loops  
+- day4.py → Patterns  
+- day5.py → Functions  
+- day6.py → Lists  
 
 ---
 
-## 🎯 Learning Goal
+## 🎯 Goal
 To become a Data Scientist by mastering Python, Data Science, and Machine Learning.
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools
 - Python
 - VS Code
 
