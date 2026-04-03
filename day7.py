@@ -3,12 +3,11 @@
 - Since, Python has no separate character type, even a single character is treated as a string with length one.
 - Strings are widely used for text handling and manipulation.
 '''
-'''
 # Creating a String:
 s1 = "Ranisa"      # Double quotes
 s2 = 'Programmer'     # Single quotes
-s3 =I am Learning
-Python String for text handling..  #triple quotes
+s3 = '''I am Learning
+Python String for text handling..'''  #triple quotes
 print(s1)
 print(s2)
 print(s3)
@@ -97,7 +96,7 @@ if word == word[::-1]:
     print("Palindrome")
 else:
     print("not a Palindrome")
-'''
+
 # 5. Count words in sentence:
 sentence = input("Write a sentence: ")
 count = 0
